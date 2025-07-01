@@ -1,0 +1,70 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #75b547, #bbdad7);
+}
+
+.text{
+    text-align: center;
+    color: #ffffff;
+}
+
+.btn1{
+    width: 80px;
+    height: 33px;
+    border-radius: 10px;
+    border: none;
+    color: #636262;
+    padding: 21px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.btn2{
+    width: 80px;
+    height: 33px;
+    border-radius: 10px;
+    border: none;
+    color: #636262;
+    padding: 21px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.counter{
+    color: #5e5757;
+    font-weight: bold;
+}
+
+.input{
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+    color: #322f2f;
+    padding: 5px;
+}
+
+.input:focus{
+    outline: none;
+}
+
+
+.btn1:hover{
+    background-color: #baf69b;
+    color: #ffffff;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    gap: 15px;
+    flex-direction: column;
+}
+
+.gap{
+    gap: 20px;
+    display: flex;
+}
