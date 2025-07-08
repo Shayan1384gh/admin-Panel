@@ -32,7 +32,7 @@
 | ⚛️ React | Frontend UI Library |
 | 🛣 React Router | For handling multiple routes/pages |
 | 🌐 Fetch / Axios | For communicating with APIs |
-| 💅 CSS / Tailwind (if used) | For styling the components |
+| 💅 CSS / Tailwind | For styling the components |
 | 📦 ES6 Modules | Modern JavaScript features |
 
 ---
